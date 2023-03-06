@@ -1,0 +1,7 @@
+/.vscode
+/.pytest_casche
+/test_rest_api
+/.mypy_cache
+*.pyc
+/__pycache__
+
