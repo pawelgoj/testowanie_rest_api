@@ -1,0 +1,1 @@
+[32mINFO    [0m test_resources:test_resources.py:87 Delete resource of id: 3 by delete on: https://reqres.in/api/unknown/3

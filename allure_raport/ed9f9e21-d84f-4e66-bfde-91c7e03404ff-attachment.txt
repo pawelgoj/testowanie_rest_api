@@ -1,0 +1,2 @@
+[32mINFO    [0m test_authentication:test_authentication.py:53 Login user: {"email": "george.bluth@reqres.in", "password": "superPassword"} on https://reqres.in/api/login
+[32mINFO    [0m test_authentication:test_authentication.py:74 Logout user of token: Bearer QpwL5tke4Pnpja7X1 on https://reqres.in/api/logout

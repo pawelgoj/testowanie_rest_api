@@ -1,0 +1,2 @@
+[32mINFO    [0m test_users:test_users.py:90 Create new user: {"first_name": "John", "last_name": "Dominguez", "job": "Surgeon"} by post on: https://reqres.in/api/users/
+[32mINFO    [0m test_users:test_users.py:132 Delete created user of id: 924 by delete on: https://reqres.in/api/users/924

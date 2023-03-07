@@ -1,0 +1,2 @@
+[32mINFO    [0m test_authentication:test_authentication.py:20 Get unique eamil and password of user
+[32mINFO    [0m test_authentication:test_authentication.py:27 POST on https://reqres.in/api/register

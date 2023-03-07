@@ -1,0 +1,1 @@
+[32mINFO    [0m test_users:test_users.py:25 Get User list from https://reqres.in/api/users

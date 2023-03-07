@@ -1,0 +1,1 @@
+[32mINFO    [0m test_resources:test_resources.py:106 Update resource of id: 5 by delete on: https://reqres.in/api/unknown/5

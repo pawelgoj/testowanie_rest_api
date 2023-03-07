@@ -1,0 +1,2 @@
+[32mINFO    [0m test_users:test_users.py:90 Create new user: {"first_name": "Joel", "last_name": "Gutierrez", "job": "Conference centre manager"} by post on: https://reqres.in/api/users/
+[32mINFO    [0m test_users:test_users.py:112 Get created user of id: 235 by get on: https://reqres.in/api/users/235

@@ -1,0 +1,1 @@
+[32mINFO    [0m test_users:test_users.py:85 Create new user: {"first_name": "Justin", "last_name": "Singh", "job": "Secondary school teacher"} by post on: https://reqres.in/api/users/

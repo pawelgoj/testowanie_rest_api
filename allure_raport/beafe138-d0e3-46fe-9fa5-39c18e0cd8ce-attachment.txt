@@ -1,0 +1,1 @@
+[32mINFO    [0m test_resources:test_resources.py:69 Resource of id: 6 from https://reqres.in/api/unknown/6

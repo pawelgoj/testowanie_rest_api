@@ -1,0 +1,1 @@
+[32mINFO    [0m test_users:test_users.py:71 User of id 1 from https://reqres.in/api/users/1

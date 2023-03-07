@@ -1,0 +1,1 @@
+[32mINFO    [0m test_authentication:test_authentication.py:53 Login user: {"email": "janet.weaver@reqres.in", "password": "superPassword"} on https://reqres.in/api/login

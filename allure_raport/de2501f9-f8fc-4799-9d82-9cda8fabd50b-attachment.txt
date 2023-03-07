@@ -1,0 +1,12 @@
+[32mINFO    [0m test_resources:test_resources.py:128 Get resource list from https://reqres.in/api/unknown
+[32mINFO    [0m test_resources:test_resources.py:128 Get resource list from https://reqres.in/api/unknown
+[32mINFO    [0m test_resources:test_resources.py:128 Get resource list from https://reqres.in/api/unknown
+[32mINFO    [0m test_resources:test_resources.py:128 Get resource list from https://reqres.in/api/unknown
+[32mINFO    [0m test_resources:test_resources.py:128 Get resource list from https://reqres.in/api/unknown
+[32mINFO    [0m test_resources:test_resources.py:128 Get resource list from https://reqres.in/api/unknown
+[32mINFO    [0m test_resources:test_resources.py:128 Get resource list from https://reqres.in/api/unknown
+[32mINFO    [0m test_resources:test_resources.py:128 Get resource list from https://reqres.in/api/unknown
+[32mINFO    [0m test_resources:test_resources.py:128 Get resource list from https://reqres.in/api/unknown
+[32mINFO    [0m test_resources:test_resources.py:128 Get resource list from https://reqres.in/api/unknown
+[32mINFO    [0m test_resources:test_resources.py:128 Get resource list from https://reqres.in/api/unknown
+[32mINFO    [0m test_resources:test_resources.py:128 Get resource list from https://reqres.in/api/unknown

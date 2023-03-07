@@ -1,0 +1,10 @@
+[
+    {
+        "email": "george.bluth@reqres.in",
+        "password": "superPassword"
+    },
+    {
+        "email": "janet.weaver@reqres.in",
+        "password": "superPassword"
+    }
+]
