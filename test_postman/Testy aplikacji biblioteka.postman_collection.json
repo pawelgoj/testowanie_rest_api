@@ -30,28 +30,20 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "{{url}}/api/v1/autors?sort=birth_date&first_name=Andrzej",
+							"raw": "{{url}}/api/v1/authors",
 							"host": [
 								"{{url}}"
 							],
 							"path": [
 								"api",
 								"v1",
-								"autors"
+								"authors"
 							],
 							"query": [
 								{
 									"key": "fields",
 									"value": "id,first_name",
 									"disabled": true
-								},
-								{
-									"key": "sort",
-									"value": "birth_date"
-								},
-								{
-									"key": "first_name",
-									"value": "Andrzej"
 								},
 								{
 									"key": "birth_date[gte]",
@@ -128,14 +120,14 @@
 							"raw": "{\r\n    \"first_name\": \"Kamilo\",\r\n    \"last_name\": \"Adamowiczo\",\r\n    \"birth_date\": \"03-04-1887\"\r\n}"
 						},
 						"url": {
-							"raw": "{{url}}/api/v1/autors",
+							"raw": "{{url}}/api/v1/authors",
 							"host": [
 								"{{url}}"
 							],
 							"path": [
 								"api",
 								"v1",
-								"autors"
+								"authors"
 							]
 						}
 					},
@@ -160,14 +152,14 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "{{url}}/api/v1/autors/1",
+							"raw": "{{url}}/api/v1/authors/1",
 							"host": [
 								"{{url}}"
 							],
 							"path": [
 								"api",
 								"v1",
-								"autors",
+								"authors",
 								"1"
 							]
 						}
@@ -213,14 +205,14 @@
 							"raw": "{\r\n    \"first_name\": \"Piotr\",\r\n    \"last_name\": \"Bagins\",\r\n    \"birth_date\": \"01-03-1700\" \r\n}"
 						},
 						"url": {
-							"raw": "{{url}}/api/v1/autors/2",
+							"raw": "{{url}}/api/v1/authors/2",
 							"host": [
 								"{{url}}"
 							],
 							"path": [
 								"api",
 								"v1",
-								"autors",
+								"authors",
 								"2"
 							]
 						}
@@ -256,14 +248,14 @@
 						"method": "DELETE",
 						"header": [],
 						"url": {
-							"raw": "{{url}}/api/v1/autors/18",
+							"raw": "{{url}}/api/v1/authors/18",
 							"host": [
 								"{{url}}"
 							],
 							"path": [
 								"api",
 								"v1",
-								"autors",
+								"authors",
 								"18"
 							]
 						}
@@ -816,6 +808,10 @@
 								"type": "text"
 							}
 						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"username\": \"{{userName}} \\\" or 1=1 --\",\r\n    \"password\": \" \\\" or 1=1\"\r\n}"
+						},
 						"url": {
 							"raw": "{{url}}/api/v1/auth/login",
 							"host": [
